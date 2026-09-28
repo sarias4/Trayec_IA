@@ -1,0 +1,201 @@
+﻿id_estudiante,facultad,horario_estudio,participacion_clase,asistencia_pct,horas_biblioteca_virtual,clics_material_extra,uso_tutorias,nota_corte1,nota_corte2,nota_final,comentario_retro
+E096,Salud,Tarde,Alta,95.2,13.8,29.0,No,3.2,3.5,3.4,Me gustaron mucho las lecturas propuestas durante el semestre.
+E016,Ingeniería,Mañana,Media,80.4,6.5,9.0,No,4.9,5.0,5.0,Sentí que el contenido fue relevante para mi formación profesional.
+E031,Ingeniería,Tarde,Nula,91.1,14.3,16.0,No,3.4,3.6,3.5,Sentí que el ritmo de la materia fue adecuado para mí.
+E159,Matemáticas,Tarde,Media,75.0,10.6,23.0,No,4.2,5.0,4.6,Tuve que cuidar a un familiar varias semanas y se me atrasaron las entregas.
+E129,Humanidades,Mañana,Media,87.5,8.7,30.0,No,4.0,3.0,3.5,Los ejemplos usados en clase conectaron bien con mi carrera.
+E116,Humanidades,Noche,Baja,88.7,8.5,21.0,No,2.2,2.2,2.2,El tiempo se me quedó corto entre el trabajo y las lecturas de la materia.
+E070,Salud,Tarde,Nula,79.9,11.9,20.0,Sí,2.3,2.7,2.5,Fue muy difícil coordinar los trabajos en grupo con mis compañeros.
+E171,Matemáticas,Mañana,Alta,69.0,4.5,15.0,No,4.8,4.6,4.7,El material complementario fue muy útil para reforzar lo visto en clase.
+E175,Matemáticas,Mañana,Baja,77.2,17.5,36.0,No,4.1,3.3,3.7,El profesor estuvo siempre disponible para resolver dudas.
+E046,Ingeniería,Noche,Alta,83.7,25.3,36.0,No,3.6,3.2,3.4,El profesor estuvo siempre disponible para resolver dudas.
+E067,Salud,Tarde,Baja,100.0,20.0,29.0,No,2.1,1.5,1.8,Tuve varias caídas de conexión justo en los momentos de evaluación.
+E183,Matemáticas,Tarde,Alta,84.6,2.3,29.0,No,4.9,5.0,5.0,El material complementario fue muy útil para reforzar lo visto en clase.
+E166,Matemáticas,Mañana,Media,84.7,8.2,25.0,No,4.9,5.0,5.0,Las explicaciones en clase fueron claras y me ayudaron bastante.
+E079,Salud,Tarde,Alta,64.6,9.5,13.0,No,2.9,3.3,3.1,Me gustaron mucho las lecturas propuestas durante el semestre.
+E187,Matemáticas,Mañana,Media,81.1,11.5,22.0,Sí,5.0,5.0,5.0,El material complementario fue muy útil para reforzar lo visto en clase.
+E178,Matemáticas,Noche,Media,68.8,13.8,19.0,No,4.0,4.3,4.2,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E057,Salud,Tarde,Alta,82.3,22.3,38.0,Sí,4.4,4.4,4.4,Se me complicó mucho cuadrar horarios con el resto del grupo para las reuniones.
+E153,Matemáticas,Mañana,Media,49.3,0.3,29.0,No,5.0,5.0,5.0,Las explicaciones en clase fueron claras y me ayudaron bastante.
+E083,Salud,Noche,Baja,91.3,6.9,14.0,Sí,2.9,3.1,3.0,Encontré muy claros los criterios de evaluación desde el inicio.
+E069,Salud,Mañana,Nula,78.8,,23.0,No,3.4,3.6,3.5,El profesor estuvo siempre disponible para resolver dudas.
+E125,Humanidades,Mañana,Alta,59.3,9.9,12.0,No,4.1,3.7,3.9,Me sentí cómodo participando durante las sesiones.
+E017,Ingeniería,Tarde,Nula,87.8,17.6,23.0,No,3.6,3.6,3.6,Sentí que el ritmo de la materia fue adecuado para mí.
+E149,Humanidades,Tarde,Media,59.2,11.7,23.0,Sí,2.5,2.5,2.5,Los recursos virtuales estuvieron bien organizados y fáciles de encontrar.
+E094,Salud,Mañana,Nula,100.0,9.0,20.0,Sí,2.6,2.5,2.6,Fue muy difícil coordinar los trabajos en grupo con mis compañeros.
+E066,Salud,Tarde,Baja,82.2,9.0,15.0,No,3.2,2.5,2.8,Perdí una entrega importante por un problema con la plataforma y mi conexión.
+E061,Salud,Tarde,Nula,90.8,13.7,50.0,Sí,2.5,2.5,2.5,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E085,Salud,Mañana,Media,82.2,14.7,23.0,No,3.0,2.8,2.9,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E068,Salud,Mañana,Baja,100.0,3.4,20.0,No,3.1,3.7,3.4,Viví lejos del campus y el desplazamiento me quitaba tiempo de estudio.
+E126,Humanidades,Tarde,Media,74.4,14.2,24.0,Sí,1.7,1.4,1.5,Se me dificultó conectarme a las clases virtuales varias semanas por problemas de internet.
+E133,Humanidades,Tarde,Media,88.8,7.9,34.0,No,4.1,4.3,4.2,El profesor estuvo siempre disponible para resolver dudas.
+E010,Ingeniería,Tarde,Media,79.7,7.5,19.0,No,4.1,4.0,4.0,El profesor estuvo siempre disponible para resolver dudas.
+E019,Ingeniería,Noche,Alta,84.3,6.2,33.0,No,3.1,3.3,3.2,Sentí que el contenido fue relevante para mi formación profesional.
+E056,Salud,Noche,Media,81.9,14.2,20.0,No,3.8,3.4,3.6,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E076,Salud,Mañana,Baja,68.0,9.9,6.0,Sí,4.1,3.8,4.0,Fue muy difícil coordinar los trabajos en grupo con mis compañeros.
+E151,Matemáticas,Noche,Media,71.5,14.7,8.0,Sí,5.0,5.0,5.0,El acompañamiento durante el semestre fue constante y útil.
+E105,Humanidades,Noche,Alta,91.0,11.9,12.0,Sí,2.2,1.9,2.0,Me sentí cómodo participando durante las sesiones.
+E136,Humanidades,Mañana,Media,67.3,16.8,11.0,Sí,2.3,2.3,2.3,El computador que uso es compartido y no siempre podía usarlo a tiempo.
+E138,Humanidades,Tarde,Media,75.7,1.0,14.0,Sí,2.6,3.2,2.9,Me gustaron mucho las lecturas propuestas durante el semestre.
+E165,Matemáticas,Tarde,Media,82.6,10.1,3.0,No,4.2,3.5,3.8,Me pareció una materia exigente pero justa en la evaluación.
+E077,Salud,Mañana,Baja,58.9,4.6,19.0,Sí,2.6,2.6,2.6,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E080,Salud,Noche,Alta,72.5,0.0,28.0,No,2.3,2.2,2.2,Entre el trabajo y la casa casi no me quedaba tiempo para estudiar.
+E198,Matemáticas,Noche,Baja,65.1,15.4,27.0,No,4.9,4.4,4.6,Me pareció una materia exigente pero justa en la evaluación.
+E039,Ingeniería,Mañana,Nula,67.3,12.8,1.0,No,4.3,4.2,4.2,El material complementario fue muy útil para reforzar lo visto en clase.
+E025,Ingeniería,Noche,Baja,60.2,3.8,18.0,No,2.9,3.3,3.1,Aprendí bastante y creo que lo aplicaré en otras materias.
+E123,Humanidades,Mañana,Baja,71.3,8.7,21.0,No,1.6,1.3,1.5,Mis compañeros de grupo no respondían a tiempo para avanzar en las entregas.
+E196,Matemáticas,Mañana,Media,64.1,9.5,5.0,No,4.6,4.3,4.4,La materia despertó mi interés por seguir profundizando en el tema.
+E030,Ingeniería,Tarde,Nula,80.4,2.3,23.0,No,3.7,3.6,3.6,El acompañamiento durante el semestre fue constante y útil.
+E020,Ingeniería,Tarde,Baja,74.8,13.2,31.0,No,4.4,4.1,4.2,Sentí que el contenido fue relevante para mi formación profesional.
+E144,Humanidades,Tarde,Media,96.8,3.3,21.0,No,3.0,3.2,3.1,El material complementario fue muy útil para reforzar lo visto en clase.
+E087,Salud,Tarde,Nula,74.6,5.7,27.0,No,2.6,2.6,2.6,El tiempo se me quedó corto entre el trabajo y las lecturas de la materia.
+E115,Humanidades,Mañana,Baja,94.4,16.7,24.0,No,2.7,2.3,2.5,Tuve que ausentarme varias semanas por temas laborales y se me acumuló todo.
+E174,Matemáticas,Noche,Baja,67.3,,24.0,No,3.9,3.9,3.9,Me pareció una materia exigente pero justa en la evaluación.
+E006,Ingeniería,Noche,Baja,78.7,11.5,7.0,No,4.0,4.9,4.4,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E127,Humanidades,Mañana,Alta,79.2,3.8,26.0,Sí,3.3,3.0,3.2,En general tuve una buena experiencia con la materia este semestre.
+E118,Humanidades,Tarde,Media,60.0,9.7,36.0,Sí,3.4,3.4,3.4,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E074,Salud,Mañana,Media,77.7,8.1,27.0,Sí,3.5,3.5,3.5,Sentí que el contenido fue relevante para mi formación profesional.
+E141,Humanidades,Tarde,Nula,95.5,11.7,18.0,No,1.7,1.7,1.7,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E099,Salud,Mañana,Alta,77.3,7.4,9.0,No,2.2,2.3,2.2,Los ejemplos usados en clase conectaron bien con mi carrera.
+E173,Matemáticas,Mañana,Baja,63.1,13.8,20.0,No,3.9,4.5,4.2,El acompañamiento durante el semestre fue constante y útil.
+E097,Salud,Mañana,Alta,79.1,17.5,9.0,Sí,2.8,3.3,3.0,"Me gustó la dinámica de las clases, se sintieron participativas."
+E170,Matemáticas,Noche,Alta,74.3,16.8,34.0,Sí,2.9,3.0,3.0,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E098,Salud,Mañana,Alta,85.0,,8.0,Sí,4.2,4.0,4.1,Me pareció una materia exigente pero justa en la evaluación.
+E032,Ingeniería,Noche,Media,93.9,11.4,22.0,No,Cuatro punto cinco,2.7,2.8,La app de la plataforma fallaba seguido y perdía tiempo reintentando subir tareas.
+E013,Ingeniería,Tarde,Baja,84.4,11.4,30.0,No,5.0,5.0,5.0,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E036,Ingeniería,Mañana,Alta,68.0,10.2,34.0,No,3.6,4.0,3.8,Aprendí bastante y creo que lo aplicaré en otras materias.
+E120,Humanidades,Tarde,Alta,71.5,4.1,41.0,Sí,3.6,3.7,3.6,Me pareció una materia exigente pero justa en la evaluación.
+E043,Ingeniería,Tarde,Baja,61.4,3.8,32.0,No,4.0,4.3,4.2,Me gustaron mucho las lecturas propuestas durante el semestre.
+E190,Matemáticas,Mañana,Alta,60.5,11.2,10.0,No,4.9,4.3,4.6,Se me dañó el computador a mitad de semestre y perdí tiempo valioso.
+E091,Salud,Mañana,Alta,90.8,24.3,20.0,Sí,Tres,4.0,4.0,Me sentí cómodo participando durante las sesiones.
+E137,Humanidades,Noche,Nula,94.0,0.0,21.0,Sí,3.1,3.7,3.4,Me pareció una materia exigente pero justa en la evaluación.
+E052,Salud,Mañana,Alta,65.2,3.3,34.0,No,3.6,3.1,3.4,La materia despertó mi interés por seguir profundizando en el tema.
+E128,Humanidades,Mañana,Media,77.0,9.9,14.0,No,2.5,2.2,2.4,Sentí que el ritmo de la materia fue adecuado para mí.
+E163,Matemáticas,Mañana,Nula,86.5,7.8,24.0,Sí,5.0,4.7,4.8,Me sentí cómodo participando durante las sesiones.
+E042,Ingeniería,Noche,Alta,98.6,18.2,19.0,No,2.5,3.1,2.8,Me pareció una materia exigente pero justa en la evaluación.
+E119,Humanidades,Tarde,Baja,42.4,16.3,14.0,Sí,1.5,2.2,1.8,Se me complicó mucho cuadrar horarios con el resto del grupo para las reuniones.
+E114,Humanidades,Tarde,Baja,60.1,8.8,5.0,Sí,2.1,2.6,2.4,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E027,Ingeniería,Tarde,Nula,69.9,1.5,23.0,No,3.7,4.4,4.1,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E140,Humanidades,Mañana,Alta,72.7,18.8,39.0,Sí,3.4,3.4,3.4,Me gustaron mucho las lecturas propuestas durante el semestre.
+E101,Humanidades,Noche,Alta,68.6,14.7,32.0,No,2.6,2.8,2.7,Se me dañó el computador a mitad de semestre y perdí tiempo valioso.
+E112,Humanidades,Mañana,Media,74.0,4.2,11.0,No,3.2,2.7,3.0,"Me gustó la dinámica de las clases, se sintieron participativas."
+E003,Ingeniería,Noche,Media,81.3,11.4,9.0,No,3.6,3.3,3.4,Me pareció una materia exigente pero justa en la evaluación.
+E078,Salud,Tarde,Media,53.1,7.9,21.0,Sí,3.9,4.0,4.0,El profesor estuvo siempre disponible para resolver dudas.
+E047,Ingeniería,Mañana,Media,76.4,7.6,9.0,No,4.8,4.3,4.6,Las explicaciones en clase fueron claras y me ayudaron bastante.
+E188,Matemáticas,Mañana,Alta,67.2,18.1,26.0,No,4.0,3.4,3.7,La materia despertó mi interés por seguir profundizando en el tema.
+E192,Matemáticas,Mañana,Nula,93.0,12.4,16.0,No,3.9,3.6,3.8,No conseguí buena señal de internet para las sesiones sincrónicas.
+E086,Salud,Mañana,Media,73.1,11.6,10.0,Sí,3.3,3.4,3.4,Tuve que cuidar a un familiar varias semanas y se me atrasaron las entregas.
+E162,Matemáticas,Noche,Nula,65.9,13.1,0.0,No,3.1,3.7,3.4,Viví lejos del campus y el desplazamiento me quitaba tiempo de estudio.
+E037,Ingeniería,Mañana,Media,70.9,11.6,8.0,No,5.0,5.0,5.0,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E191,Matemáticas,Noche,Media,94.0,3.4,31.0,No,3.1,2.9,3.0,El material complementario fue muy útil para reforzar lo visto en clase.
+E062,Salud,Tarde,Alta,74.0,,29.0,Sí,4.3,4.0,4.2,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E023,Ingeniería,Noche,Media,54.1,0.0,17.0,No,3.7,3.5,3.6,Las explicaciones en clase fueron claras y me ayudaron bastante.
+E142,Humanidades,Tarde,Alta,79.6,14.6,24.0,Sí,3.2,3.4,3.3,Mis compañeros de grupo no respondían a tiempo para avanzar en las entregas.
+E102,Humanidades,Tarde,Nula,83.2,19.0,16.0,No,2.3,2.4,2.3,Tuve que cuidar a un familiar varias semanas y se me atrasaron las entregas.
+E034,Ingeniería,Mañana,Media,94.2,18.7,9.0,No,3.3,3.8,3.6,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E012,Ingeniería,Noche,Media,80.8,14.9,31.0,No,5.0,5.0,5.0,Me gustaron mucho las lecturas propuestas durante el semestre.
+E195,Matemáticas,Mañana,Nula,49.1,9.7,25.0,No,3.9,4.2,4.0,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E160,Matemáticas,Noche,Media,76.1,,16.0,No,4.8,4.6,4.7,En general tuve una buena experiencia con la materia este semestre.
+E007,Ingeniería,Noche,Nula,72.3,20.9,25.0,No,4.0,3.8,3.9,En general tuve una buena experiencia con la materia este semestre.
+E028,Ingeniería,Mañana,Media,87.0,12.7,15.0,No,4.8,4.9,4.8,La materia despertó mi interés por seguir profundizando en el tema.
+E121,Humanidades,Tarde,Alta,100.0,4.5,18.0,No,3.2,3.4,3.3,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E005,Ingeniería,Mañana,Nula,50.3,2.7,13.0,No,4.0,4.2,4.1,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E033,Ingeniería,Mañana,Alta,77.2,6.3,23.0,Sí,3.9,4.5,4.2,No alcancé a entregar a tiempo por mis horarios de trabajo.
+E143,Humanidades,Noche,Alta,81.1,3.2,18.0,No,2.2,2.5,2.4,Mis compañeros de grupo no respondían a tiempo para avanzar en las entregas.
+E146,Humanidades,Mañana,Alta,66.7,10.3,24.0,Sí,3.5,3.1,3.3,Me pareció una materia exigente pero justa en la evaluación.
+E110,Humanidades,Noche,Nula,89.2,5.3,30.0,No,2.5,2.3,2.4,Los ejemplos usados en clase conectaron bien con mi carrera.
+E145,Humanidades,Tarde,Alta,73.7,12.7,20.0,Sí,2.9,2.6,2.8,La app de la plataforma fallaba seguido y perdía tiempo reintentando subir tareas.
+E011,Ingeniería,Mañana,Media,87.1,6.9,30.0,No,4.6,4.9,4.8,Me sentí cómodo participando durante las sesiones.
+E063,Salud,Tarde,Baja,91.4,11.0,13.0,No,2.3,3.0,2.6,Los ejemplos usados en clase conectaron bien con mi carrera.
+E113,Humanidades,Mañana,Baja,54.1,4.5,25.0,Sí,3.6,4.1,3.8,Me sentí cómodo participando durante las sesiones.
+E147,Humanidades,Mañana,Alta,72.6,13.3,32.0,No,3.5,3.7,3.6,"La coordinación del trabajo grupal fue el mayor obstáculo, no el contenido."
+E167,Matemáticas,Noche,Alta,81.6,3.9,25.0,No,3.4,3.5,3.4,Encontré muy claros los criterios de evaluación desde el inicio.
+E001,Ingeniería,Noche,Alta,83.3,2.9,20.0,No,3.2,3.7,3.4,"Disfruté los talleres prácticos, se entienden mejor los temas así."
+E199,Matemáticas,Mañana,Media,86.6,10.1,24.0,No,2.9,2.5,2.7,El profesor estuvo siempre disponible para resolver dudas.
+E154,Matemáticas,Tarde,Media,68.6,0.0,29.0,No,4.4,4.3,4.4,El acompañamiento durante el semestre fue constante y útil.
+E071,Salud,Mañana,Nula,90.9,4.8,23.0,Sí,2.6,2.9,2.8,El computador que uso es compartido y no siempre podía usarlo a tiempo.
+E124,Humanidades,Tarde,Media,83.6,13.9,9.0,No,2.5,2.4,2.4,Sentí que el ritmo de la materia fue adecuado para mí.
+E065,Salud,Tarde,Alta,76.4,21.1,16.0,No,2.5,1.9,2.2,Las evaluaciones estuvieron alineadas con lo que se trabajó en clase.
+E045,Ingeniería,Noche,Media,65.5,19.7,24.0,No,4.1,4.0,4.0,Me sentí cómodo participando durante las sesiones.
+E164,Matemáticas,Mañana,Nula,86.0,4.6,0.0,Sí,4.5,4.7,4.6,El acompañamiento durante el semestre fue constante y útil.
+E029,Ingeniería,Mañana,Media,74.6,5.2,14.0,No,4.6,4.4,4.5,"El grupo de trabajo se desorganizó y terminé haciendo todo casi solo, sin tiempo suficiente."
+E041,Ingeniería,Tarde,Alta,87.6,7.5,20.0,No,4.9,4.4,4.6,"Me gustó la dinámica de las clases, se sintieron participativas."
+E109,Humanidades,Mañana,Baja,74.3,5.0,17.0,No,2.4,2.9,2.6,Fue muy difícil coordinar los trabajos en grupo con mis compañeros.
+E156,Matemáticas,Tarde,Media,68.1,17.1,29.0,No,5.0,5.0,5.0,Aprendí bastante y creo que lo aplicaré en otras materias.
+E157,Matemáticas,Mañana,Alta,81.0,3.9,25.0,No,4.2,5.0,4.6,El acompañamiento durante el semestre fue constante y útil.
+E026,Ingeniería,Mañana,Alta,50.0,11.4,14.0,Sí,5.0,5.0,5.0,Sentí que el ritmo de la materia fue adecuado para mí.
+E024,Ingeniería,Noche,Alta,62.4,13.2,22.0,No,2.8,2.7,2.8,El material complementario fue muy útil para reforzar lo visto en clase.
+E185,Matemáticas,Noche,Baja,60.6,20.4,17.0,No,5.0,4.8,4.9,Sentí que el ritmo de la materia fue adecuado para mí.
+E148,Humanidades,Tarde,Baja,83.4,8.9,36.0,No,1.6,2.0,1.8,Se me dificultó conectarme a las clases virtuales varias semanas por problemas de internet.
+E082,Salud,Tarde,Baja,100.0,12.9,16.0,Sí,2.5,3.1,2.8,Se me dificultó conectarme a las clases virtuales varias semanas por problemas de internet.
+E040,Ingeniería,Tarde,Nula,73.7,6.8,20.0,No,4.2,4.4,4.3,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E169,Matemáticas,Mañana,Baja,77.0,20.7,13.0,No,4.3,4.3,4.3,En general tuve una buena experiencia con la materia este semestre.
+E048,Ingeniería,Mañana,Media,56.0,0.0,16.0,No,4.1,4.0,4.0,Sentí que el ritmo de la materia fue adecuado para mí.
+E095,Salud,Mañana,Alta,80.7,14.9,22.0,No,4.1,4.1,4.1,El material complementario fue muy útil para reforzar lo visto en clase.
+E155,Matemáticas,Mañana,Media,57.8,16.0,22.0,No,4.4,4.6,4.5,El material complementario fue muy útil para reforzar lo visto en clase.
+E044,Ingeniería,Mañana,Media,82.7,0.0,0.0,No,5.0,4.8,4.9,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E139,Humanidades,Noche,Nula,94.8,4.5,18.0,Sí,2.5,2.2,2.4,Mis compañeros de grupo no respondían a tiempo para avanzar en las entregas.
+E004,Ingeniería,Tarde,Nula,61.0,,18.0,No,3.6,4.1,3.8,"Me gustó la dinámica de las clases, se sintieron participativas."
+E106,Humanidades,Tarde,Media,82.4,8.5,14.0,Sí,3.8,4.5,4.2,"Me gustó la dinámica de las clases, se sintieron participativas."
+E054,Salud,Tarde,Baja,83.1,13.1,17.0,Sí,2.9,3.1,3.0,En general tuve una buena experiencia con la materia este semestre.
+E134,Humanidades,Mañana,Alta,97.5,,1.0,Sí,3.2,2.8,3.0,Me pareció una materia exigente pero justa en la evaluación.
+E181,Matemáticas,Noche,Media,76.1,10.5,17.0,No,5.0,5.0,5.0,Me gustaron mucho las lecturas propuestas durante el semestre.
+E179,Matemáticas,Noche,Baja,88.8,12.0,20.0,No,4.8,4.7,4.8,El profesor estuvo siempre disponible para resolver dudas.
+E186,Matemáticas,Tarde,Alta,77.2,18.2,19.0,Sí,5.0,5.0,5.0,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E050,Ingeniería,Mañana,Media,70.7,8.3,11.0,Sí,3.6,3.8,3.7,Encontré muy claros los criterios de evaluación desde el inicio.
+E081,Salud,Tarde,Nula,74.5,0.3,7.0,Sí,2.3,2.6,2.4,Fue muy difícil coordinar los trabajos en grupo con mis compañeros.
+E035,Ingeniería,Tarde,Alta,79.1,7.4,15.0,Sí,3.8,3.3,3.6,El profesor estuvo siempre disponible para resolver dudas.
+E008,Ingeniería,Noche,Media,83.5,0.1,24.0,No,5.0,4.8,4.9,En general tuve una buena experiencia con la materia este semestre.
+E111,Humanidades,Tarde,Media,56.0,0.0,13.0,No,1.8,1.4,1.6,No tuve buen acceso a internet en mi casa durante buena parte del semestre.
+E092,Salud,Tarde,Nula,64.3,,18.0,Sí,2.4,2.8,2.6,Se me dificultó conectarme a las clases virtuales varias semanas por problemas de internet.
+E084,Salud,Mañana,Baja,66.5,0.0,20.0,No,2.2,2.3,2.2,Se me complicó mucho cuadrar horarios con el resto del grupo para las reuniones.
+E177,Matemáticas,Tarde,Alta,78.6,14.4,10.0,No,4.4,4.4,4.4,El acompañamiento durante el semestre fue constante y útil.
+E182,Matemáticas,Noche,Alta,70.2,6.7,13.0,No,2.8,3.2,3.0,El acompañamiento durante el semestre fue constante y útil.
+E090,Salud,Tarde,Nula,73.9,12.1,0.0,No,2.8,2.1,2.4,Sentí que el contenido fue relevante para mi formación profesional.
+E009,Ingeniería,Mañana,Nula,86.4,2.3,2.0,No,4.7,4.4,4.6,La materia despertó mi interés por seguir profundizando en el tema.
+E014,Ingeniería,Noche,Alta,69.5,0.0,20.0,No,3.0,2.0,2.5,Se me dificultó conectarme a las clases virtuales varias semanas por problemas de internet.
+E060,Salud,Mañana,Media,60.3,9.1,24.0,Sí,3.9,3.5,3.7,Me pareció una materia exigente pero justa en la evaluación.
+E172,Matemáticas,Tarde,Baja,65.6,15.1,42.0,No,5.0,5.0,5.0,Los ejemplos usados en clase conectaron bien con mi carrera.
+E132,Humanidades,Noche,Baja,69.7,14.1,25.0,Sí,3.8,3.2,3.5,Me sentí cómodo participando durante las sesiones.
+E018,Ingeniería,Mañana,Nula,73.3,6.2,24.0,No,3.2,3.1,3.2,Me sentí cómodo participando durante las sesiones.
+E073,Salud,Noche,Nula,82.0,17.3,1.0,Sí,2.3,2.3,2.3,Viví lejos del campus y el desplazamiento me quitaba tiempo de estudio.
+E176,Matemáticas,Mañana,Nula,82.0,13.8,21.0,No,3.2,3.7,3.4,Los ejemplos usados en clase conectaron bien con mi carrera.
+E135,Humanidades,Tarde,Nula,66.4,9.4,17.0,Sí,3.0,2.8,2.9,No conseguí buena señal de internet para las sesiones sincrónicas.
+E168,Matemáticas,Noche,Media,100.0,22.3,8.0,No,4.1,3.7,3.9,Me gustaron mucho las lecturas propuestas durante el semestre.
+E184,Matemáticas,Mañana,Media,80.3,20.1,20.0,No,3.5,3.6,3.6,"Disfruté los talleres prácticos, se entienden mejor los temas así."
+E064,Salud,Noche,Nula,82.6,7.7,30.0,No,2.5,2.5,2.5,Viví lejos del campus y el desplazamiento me quitaba tiempo de estudio.
+E055,Salud,Tarde,Baja,75.7,1.0,39.0,No,2.6,3.1,2.8,Viví lejos del campus y el desplazamiento me quitaba tiempo de estudio.
+E108,Humanidades,Mañana,Media,83.4,0.0,20.0,Sí,3.3,3.2,3.2,"Me gustó la dinámica de las clases, se sintieron participativas."
+E051,Salud,Mañana,Media,71.6,8.9,17.0,Sí,3.4,3.0,3.2,El profesor estuvo siempre disponible para resolver dudas.
+E197,Matemáticas,Tarde,Alta,74.5,20.8,22.0,No,5.0,5.0,5.0,Los ejemplos usados en clase conectaron bien con mi carrera.
+E059,Salud,Mañana,Nula,73.9,8.0,21.0,Sí,2.7,2.3,2.5,El computador que uso es compartido y no siempre podía usarlo a tiempo.
+E049,Ingeniería,Tarde,Baja,89.1,8.1,12.0,No,3.3,3.5,3.4,El material complementario fue muy útil para reforzar lo visto en clase.
+E089,Salud,Mañana,Media,85.4,15.0,1.0,Sí,4.1,4.1,4.1,"Me gustó la dinámica de las clases, se sintieron participativas."
+E022,Ingeniería,Mañana,Media,88.0,,8.0,Sí,4.0,3.9,4.0,Sentí que el ritmo de la materia fue adecuado para mí.
+E058,Salud,Tarde,Nula,93.8,11.0,19.0,Sí,3.1,3.6,3.4,El profesor estuvo siempre disponible para resolver dudas.
+E161,Matemáticas,Mañana,Alta,80.4,20.8,23.0,No,3.9,4.3,4.1,Mis compañeros de grupo no respondían a tiempo para avanzar en las entregas.
+E193,Matemáticas,Mañana,Media,75.0,10.4,6.0,No,4.4,4.7,4.6,Los ejemplos usados en clase conectaron bien con mi carrera.
+E130,Humanidades,Tarde,Baja,82.1,2.7,32.0,Sí,2.3,2.5,2.4,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E038,Ingeniería,Tarde,Alta,60.2,6.3,0.0,No,4.2,4.1,4.2,Se me dañó el computador a mitad de semestre y perdí tiempo valioso.
+E158,Matemáticas,Tarde,Alta,75.8,0.0,32.0,No,3.9,4.1,4.0,Me pareció una materia exigente pero justa en la evaluación.
+E194,Matemáticas,Noche,Media,82.4,2.2,24.0,No,4.4,4.7,4.6,Los ejemplos usados en clase conectaron bien con mi carrera.
+E002,Ingeniería,Tarde,Alta,84.3,5.0,18.0,No,4.8,4.2,4.5,Me gustaron mucho las lecturas propuestas durante el semestre.
+E053,Salud,Noche,Media,70.1,13.5,38.0,Sí,2.7,3.2,3.0,Sentí que el contenido fue relevante para mi formación profesional.
+E150,Humanidades,Mañana,Nula,85.6,10.9,26.0,No,2.9,3.4,3.2,En general tuve una buena experiencia con la materia este semestre.
+E131,Humanidades,Mañana,Media,86.0,0.6,34.0,No,3.3,2.6,3.0,El material complementario fue muy útil para reforzar lo visto en clase.
+E152,Matemáticas,Noche,Baja,91.8,14.8,19.0,No,4.1,4.3,4.2,"Me gustó la dinámica de las clases, se sintieron participativas."
+E104,Humanidades,Noche,Media,86.0,7.5,3.0,No,2.5,1.8,2.2,No alcancé a entregar a tiempo por mis horarios de trabajo.
+E100,Salud,Noche,Media,76.0,7.1,23.0,Sí,2.5,1.6,2.0,Perdí una entrega importante por un problema con la plataforma y mi conexión.
+E117,Humanidades,Noche,Baja,69.4,3.8,19.0,Sí,Dos punto cinco,2.4,2.3,El computador que uso es compartido y no siempre podía usarlo a tiempo.
+E088,Salud,Tarde,Baja,80.2,2.1,21.0,Sí,3.7,4.0,3.8,El acompañamiento durante el semestre fue constante y útil.
+E075,Salud,Mañana,Media,81.8,0.0,10.0,Sí,3.4,3.1,3.2,El acompañamiento durante el semestre fue constante y útil.
+E122,Humanidades,Tarde,Media,83.2,13.4,7.0,Sí,3.4,2.9,3.2,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E200,Matemáticas,Mañana,Media,100.0,11.5,26.0,No,4.5,4.4,4.4,Aprendí bastante y creo que lo aplicaré en otras materias.
+E021,Ingeniería,Noche,Baja,76.6,14.6,19.0,Sí,4.5,4.4,4.4,"El grupo de trabajo se desorganizó y terminé haciendo todo casi solo, sin tiempo suficiente."
+E189,Matemáticas,Tarde,Nula,80.3,,10.0,No,4.2,4.4,4.3,Las retroalimentaciones anteriores me ayudaron a mejorar mis entregas.
+E072,Salud,Tarde,Baja,67.9,11.1,24.0,Sí,2.7,2.2,2.4,El computador que uso es compartido y no siempre podía usarlo a tiempo.
+E107,Humanidades,Tarde,Baja,74.6,15.7,16.0,Sí,3.5,3.4,3.4,Encontré muy claros los criterios de evaluación desde el inicio.
+E015,Ingeniería,Tarde,Media,75.8,13.1,12.0,No,4.1,4.1,4.1,Sentí que el ritmo de la materia fue adecuado para mí.
+E093,Salud,Tarde,Alta,78.1,12.3,19.0,Sí,3.5,3.4,3.4,"Me gustó la dinámica de las clases, se sintieron participativas."
+E180,Matemáticas,Tarde,Media,86.9,0.0,6.0,No,3.3,2.8,3.0,Los foros de discusión ayudaron a aclarar varias dudas del grupo.
+E103,Humanidades,Mañana,Media,67.8,7.2,0.0,Sí,3.4,3.5,3.4,Me gustaron mucho las lecturas propuestas durante el semestre.
