@@ -1,1 +1,5 @@
-
+streamlit
+pandas
+groq
+plotly
+numpy
